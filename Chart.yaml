@@ -1,0 +1,5 @@
+apiVersion: v2
+name: my-neoflex-helm
+description: chart for my Neoflex application
+version: 0.1.0
+
